@@ -6,7 +6,11 @@ import categoryRoutes from './routes/categoryRoutes';
 import errorHandler from './utils/errorHandler';
 import connectDB from './config/database';
 
+const cors = require('cors');
+
 const app = express();
+app.use(cors());
+
 const PORT = process.env.PORT || 3000;
 
 connectDB();
