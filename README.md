@@ -1,5 +1,7 @@
 Использована MongoDB
 
+Обновленный фронт: https://github.com/mayaffia/react-hw4
+
 
 Categories 
 
@@ -24,9 +26,6 @@ Products
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/fad0cb2d-ecea-4863-a693-82445e4ce6fa" />
 
 <img width="874" alt="image" src="https://github.com/user-attachments/assets/8dbc3b6d-039d-4854-9d37-81ebfec029b3" />
-
-
-
 
 
 
